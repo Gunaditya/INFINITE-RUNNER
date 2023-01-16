@@ -1,1 +1,1 @@
-# INFINITE-RUNNER
+# Stickman
